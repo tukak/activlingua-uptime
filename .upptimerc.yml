@@ -3,8 +3,10 @@ owner: tukak # Your GitHub organization or username, where this repository lives
 repo: activlingua-uptime # The name of this repository
 
 sites:
-  - name: Activlingua
+  - name: Nova Activlingua
     url: https://nova.activlingua.cz
+  - name: Nova Activlingua
+    url: http://www.activlingua.cz
 assignees:
   - tukak
 status-website:
