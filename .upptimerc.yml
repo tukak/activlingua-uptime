@@ -7,6 +7,8 @@ sites:
     url: https://nova.activlingua.cz
   - name: Activlingua
     url: http://www.activlingua.cz
+  - name: Katkakutnerova
+    url: http://www.katkakutnerova.cz
 assignees:
   - tukak
 status-website:
