@@ -4,19 +4,19 @@
     "url": "https://nova.activlingua.cz",
     "icon": "https://icons.duckduckgo.com/ip3/nova.activlingua.cz.ico",
     "slug": "nova-activlingua",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3063,
-    "timeDay": 4406,
-    "timeWeek": 2550,
-    "timeMonth": 3063,
-    "timeYear": 3063,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 3000,
+    "timeDay": 2766,
+    "timeWeek": 2372,
+    "timeMonth": 3000,
+    "timeYear": 3000,
     "dailyMinutesDown": {
-      "2023-07-23": 0
+      "2023-07-23": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "http://www.katkakutnerova.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.katkakutnerova.cz.ico",
     "slug": "katkakutnerova",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3927,
-    "timeDay": 8179,
-    "timeWeek": 4163,
-    "timeMonth": 3927,
-    "timeYear": 3927,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 3660,
+    "timeDay": 5695,
+    "timeWeek": 3782,
+    "timeMonth": 3660,
+    "timeYear": 3660,
     "dailyMinutesDown": {
-      "2023-07-23": 0
+      "2023-07-23": 8
     }
   }
 ]
