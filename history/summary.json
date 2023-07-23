@@ -4,9 +4,9 @@
     "url": "https://nova.activlingua.cz",
     "icon": "https://icons.duckduckgo.com/ip3/nova.activlingua.cz.ico",
     "slug": "nova-activlingua",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2550,
     "timeMonth": 3063,
     "timeYear": 3063,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-23": 0
+    }
   },
   {
     "name": "Activlingua",
@@ -40,17 +42,19 @@
     "url": "http://www.katkakutnerova.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.katkakutnerova.cz.ico",
     "slug": "katkakutnerova",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2757,
-    "timeDay": 738,
-    "timeWeek": 2527,
-    "timeMonth": 2757,
-    "timeYear": 2757,
-    "dailyMinutesDown": {}
+    "time": 3927,
+    "timeDay": 8179,
+    "timeWeek": 4163,
+    "timeMonth": 3927,
+    "timeYear": 3927,
+    "dailyMinutesDown": {
+      "2023-07-23": 0
+    }
   }
 ]
