@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nova.activlingua.cz.ico",
     "slug": "nova-activlingua",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3000,
-    "timeDay": 2766,
-    "timeWeek": 2372,
-    "timeMonth": 3000,
-    "timeYear": 3000,
-    "dailyMinutesDown": {
-      "2023-07-23": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2939,
+    "timeDay": 1079,
+    "timeWeek": 2301,
+    "timeMonth": 2939,
+    "timeYear": 2939,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Activlingua",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1753,
-    "timeDay": 1541,
-    "timeWeek": 1633,
-    "timeMonth": 1753,
-    "timeYear": 1753,
+    "time": 1742,
+    "timeDay": 1403,
+    "timeWeek": 1536,
+    "timeMonth": 1742,
+    "timeYear": 1742,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.katkakutnerova.cz.ico",
     "slug": "katkakutnerova",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 3660,
-    "timeDay": 5695,
-    "timeWeek": 3782,
-    "timeMonth": 3660,
-    "timeYear": 3660,
-    "dailyMinutesDown": {
-      "2023-07-23": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3435,
+    "timeDay": 5692,
+    "timeWeek": 3732,
+    "timeMonth": 3435,
+    "timeYear": 3435,
+    "dailyMinutesDown": {}
   }
 ]
