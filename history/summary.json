@@ -4,7 +4,7 @@
     "url": "https://nova.activlingua.cz",
     "icon": "https://icons.duckduckgo.com/ip3/nova.activlingua.cz.ico",
     "slug": "nova-activlingua",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2301,
     "timeMonth": 2939,
     "timeYear": 2939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-24": 0
+    }
   },
   {
     "name": "Activlingua",
