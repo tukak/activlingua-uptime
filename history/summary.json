@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nova.activlingua.cz.ico",
     "slug": "nova-activlingua",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.31%",
+    "uptimeDay": "53.02%",
+    "uptimeWeek": "93.29%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
     "time": 2939,
-    "timeDay": 1079,
-    "timeWeek": 2301,
+    "timeDay": 0,
+    "timeWeek": 2498,
     "timeMonth": 2939,
     "timeYear": 2939,
     "dailyMinutesDown": {
-      "2023-07-24": 0
+      "2023-07-25": 103,
+      "2023-07-24": 573
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1742,
-    "timeDay": 1403,
-    "timeWeek": 1536,
-    "timeMonth": 1742,
-    "timeYear": 1742,
+    "time": 1698,
+    "timeDay": 330,
+    "timeWeek": 1396,
+    "timeMonth": 1698,
+    "timeYear": 1698,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3435,
-    "timeDay": 5692,
-    "timeWeek": 3732,
-    "timeMonth": 3435,
-    "timeYear": 3435,
+    "time": 3238,
+    "timeDay": 687,
+    "timeWeek": 3731,
+    "timeMonth": 3238,
+    "timeYear": 3238,
     "dailyMinutesDown": {}
   }
 ]
