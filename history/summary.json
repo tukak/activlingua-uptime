@@ -4,18 +4,20 @@
     "url": "http://www.activlingua.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.activlingua.cz.ico",
     "slug": "activlingua",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1501,
-    "timeDay": 340,
-    "timeWeek": 557,
-    "timeMonth": 1315,
+    "timeDay": 0,
+    "timeWeek": 436,
+    "timeMonth": 1290,
     "timeYear": 1501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-30": 0
+    }
   },
   {
     "name": "Katkakutnerova",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2552,
-    "timeDay": 704,
-    "timeWeek": 2347,
-    "timeMonth": 2552,
-    "timeYear": 2552,
+    "time": 2466,
+    "timeDay": 749,
+    "timeWeek": 893,
+    "timeMonth": 2466,
+    "timeYear": 2466,
     "dailyMinutesDown": {}
   }
 ]
