@@ -1,7 +1,7 @@
 url: http://www.activlingua.cz
-status: up
-code: 200
-responseTime: 723
-lastUpdated: 2023-10-23T23:10:13.814Z
+status: down
+code: 503
+responseTime: 651
+lastUpdated: 2023-10-24T20:47:17.502Z
 startTime: 2023-06-27T06:20:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
