@@ -29,19 +29,19 @@
     "url": "http://www.katkakutnerova.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.katkakutnerova.cz.ico",
     "slug": "katkakutnerova",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1153,
-    "timeDay": 1312,
-    "timeWeek": 1596,
-    "timeMonth": 1509,
-    "timeYear": 1153,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1157,
+    "timeDay": 1509,
+    "timeWeek": 1610,
+    "timeMonth": 1516,
+    "timeYear": 1157,
     "dailyMinutesDown": {
-      "2023-12-13": 0
+      "2023-12-13": 16
     }
   }
 ]
