@@ -4,7 +4,7 @@ repo: activlingua-uptime # The name of this repository
 
 sites:
   - name: Activlingua
-    url: https://www.activlingua.cz
+    url: http://www.activlingua.cz
   - name: Katkakutnerova
     url: https://www.katkakutnerova.cz
   - name: Pravnipreklady
