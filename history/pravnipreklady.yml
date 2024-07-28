@@ -1,7 +1,7 @@
 url: https://www.pravnipreklady.eu
-status: up
-code: 200
-responseTime: 7
-lastUpdated: 2024-07-27T23:12:59.851Z
+status: down
+code: 500
+responseTime: 21
+lastUpdated: 2024-07-28T16:20:44.666Z
 startTime: 2023-12-28T12:46:21.657Z
 generator: Upptime <https://github.com/upptime/upptime>
