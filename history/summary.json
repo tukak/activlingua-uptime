@@ -4,9 +4,9 @@
     "url": "http://www.activlingua.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.activlingua.cz.ico",
     "slug": "activlingua",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 387,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2024-07-28": 15,
       "2024-07-26": 20
     }
@@ -47,9 +48,9 @@
     "url": "https://www.pravnipreklady.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.pravnipreklady.eu.ico",
     "slug": "pravnipreklady",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -59,6 +60,7 @@
     "timeMonth": 25,
     "timeYear": 30,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2024-07-28": 15,
       "2024-07-26": 20
     }
