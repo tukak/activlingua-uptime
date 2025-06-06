@@ -4,18 +4,19 @@
     "url": "http://www.activlingua.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.activlingua.cz.ico",
     "slug": "activlingua",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 383,
-    "timeDay": 427,
-    "timeWeek": 422,
-    "timeMonth": 536,
+    "timeDay": 429,
+    "timeWeek": 424,
+    "timeMonth": 532,
     "timeYear": 412,
     "dailyMinutesDown": {
+      "2025-06-06": 0,
       "2024-07-28": 15,
       "2024-07-26": 20
     }
