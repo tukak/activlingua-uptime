@@ -6,20 +6,19 @@
     "slug": "activlingua",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 399,
-    "timeDay": 536,
-    "timeWeek": 400,
-    "timeMonth": 430,
-    "timeYear": 417,
+    "timeDay": 268,
+    "timeWeek": 403,
+    "timeMonth": 429,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2025-07-24": 50,
       "2025-06-06": 24,
-      "2024-07-28": 15,
-      "2024-07-26": 20
+      "2024-07-28": 15
     }
   },
   {
@@ -33,10 +32,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 662,
-    "timeDay": 627,
-    "timeWeek": 598,
-    "timeMonth": 702,
+    "time": 661,
+    "timeDay": 471,
+    "timeWeek": 588,
+    "timeMonth": 697,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2024-11-12": 20,
@@ -50,19 +49,18 @@
     "slug": "pravnipreklady",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.51%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 29,
-    "timeDay": 43,
+    "timeDay": 7,
     "timeWeek": 29,
-    "timeMonth": 31,
+    "timeMonth": 30,
     "timeYear": 31,
     "dailyMinutesDown": {
       "2025-07-24": 50,
-      "2024-07-28": 15,
-      "2024-07-26": 20
+      "2024-07-28": 15
     }
   }
 ]
