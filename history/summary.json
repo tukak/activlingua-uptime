@@ -5,20 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.activlingua.cz.ico",
     "slug": "activlingua",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 399,
-    "timeDay": 180,
-    "timeWeek": 336,
-    "timeMonth": 424,
-    "timeYear": 410,
+    "timeDay": 158,
+    "timeWeek": 326,
+    "timeMonth": 419,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2025-07-24": 50,
-      "2025-06-06": 24,
-      "2024-07-28": 15
+      "2025-06-06": 24
     }
   },
   {
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 661,
-    "timeDay": 548,
-    "timeWeek": 576,
-    "timeMonth": 689,
+    "timeDay": 514,
+    "timeWeek": 572,
+    "timeMonth": 676,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2024-11-12": 20,
@@ -54,13 +53,12 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 29,
-    "timeDay": 8,
+    "timeDay": 7,
     "timeWeek": 25,
     "timeMonth": 30,
     "timeYear": 23,
     "dailyMinutesDown": {
-      "2025-07-24": 50,
-      "2024-07-28": 15
+      "2025-07-24": 50
     }
   }
 ]
