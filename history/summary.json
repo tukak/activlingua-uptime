@@ -25,7 +25,7 @@
     "url": "https://www.katkakutnerova.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.katkakutnerova.cz.ico",
     "slug": "katkakutnerova",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 732,
     "timeYear": 677,
     "dailyMinutesDown": {
+      "2025-09-09": 0,
       "2024-11-12": 20
     }
   },
