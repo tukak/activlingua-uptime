@@ -1,32 +1,5 @@
 [
   {
-    "name": "Activlingua",
-    "url": "http://www.activlingua.cz",
-    "icon": "https://icons.duckduckgo.com/ip3/www.activlingua.cz.ico",
-    "slug": "activlingua",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "52.80%",
-    "uptimeMonth": "89.03%",
-    "uptimeYear": "99.07%",
-    "time": 445,
-    "timeDay": 0,
-    "timeWeek": 306,
-    "timeMonth": 618,
-    "timeYear": 449,
-    "dailyMinutesDown": {
-      "2025-11-04": 115,
-      "2025-11-03": 1440,
-      "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 323,
-      "2025-10-20": 46,
-      "2025-07-24": 50,
-      "2025-06-06": 24
-    }
-  },
-  {
     "name": "Katkakutnerova",
     "url": "https://www.katkakutnerova.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.katkakutnerova.cz.ico",
@@ -38,39 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 721,
-    "timeDay": 803,
-    "timeWeek": 2997,
-    "timeMonth": 1314,
+    "timeDay": 863,
+    "timeWeek": 2789,
+    "timeMonth": 1302,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-10-02": 38,
       "2024-11-12": 20
-    }
-  },
-  {
-    "name": "Pravnipreklady",
-    "url": "https://www.pravnipreklady.eu",
-    "icon": "https://icons.duckduckgo.com/ip3/www.pravnipreklady.eu.ico",
-    "slug": "pravnipreklady",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "52.80%",
-    "uptimeMonth": "89.04%",
-    "uptimeYear": "99.08%",
-    "time": 31,
-    "timeDay": 0,
-    "timeWeek": 18,
-    "timeMonth": 39,
-    "timeYear": 27,
-    "dailyMinutesDown": {
-      "2025-11-04": 115,
-      "2025-11-03": 1440,
-      "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 323,
-      "2025-10-20": 45,
-      "2025-07-24": 50
     }
   }
 ]
